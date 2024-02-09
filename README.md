@@ -5,15 +5,15 @@
 
 - CMOS Inverter circuit
 
-![](CMOS_Circuit.png)
+![](cmos_circuit.png)
 
 - CMOS Test Circuit
 
-![](CMOS_Test_Circuit.png)
+![](cmos_test_circuit.png)
 
 - ADE L Settings
-![](ADEL.png)
+![](adel.png)
 
 - Output Graph
 
-![](FINAL_GRAPH.jpg)
+![](final_graph.png)
